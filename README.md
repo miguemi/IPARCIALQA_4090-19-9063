@@ -1,4 +1,4 @@
-#Set Instrucciones
+# Set Instrucciones Examen QA
 
 1.	A continuación, proceda a hacer un fork del siguiente código https://github.com/bcaal87/parcialQA.git y asígnele el nombre de IPARCIALQA_CARNÉ
 2.	Proceda a clonar el codigo fuente el cual le hizo un Fork.
